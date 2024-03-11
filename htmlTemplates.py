@@ -33,7 +33,7 @@ css = """
 bot_template = """
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://deladavid.com/cdn/shop/products/Screen_Shot_2017-09-20_at_4.27.43_PM_grande.png?v=1585635380">
+        <img src="https://pbs.twimg.com/profile_images/1232518700/Endhiran-Movie-Wallpapers-6_1__400x400.jpg">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
@@ -43,7 +43,7 @@ bot_template = """
 user_template = """
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=600">
+        <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/08/bryan-cranston.jpg">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
